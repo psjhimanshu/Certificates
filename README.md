@@ -4,7 +4,6 @@
 ## Other Certificates Information Alltogether
 
 ### Latest Academic Result: 
-![fourth_sem_result.jpg](Compressed_Certificates/4th Sem.pdf)
 
 ### All other courses: 
 | Name                                       | Score | Date of certification | Institution      |
