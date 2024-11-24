@@ -16,4 +16,4 @@
 | Cloud Computing                            | 55    | April, 2023           | IIT Kharagpur    |
 | Database Management System                 | 55    | September, 2023       | IIT Kharagpur    |
 | DataScience for Engineers                  | 55    | March, 2024           | IIT Madras       |
-| Programming and DSA using Java             | 65    | October, 2024         | IIT Kharagpur    |
+| Data Structure and Algorithms using Java   | 65    | October, 2024         | IIT Kharagpur    |
